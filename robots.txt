@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glendoraplumbingco.com/sitemap.xml
